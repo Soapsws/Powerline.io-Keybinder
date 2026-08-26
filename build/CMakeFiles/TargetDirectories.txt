@@ -1,3 +1,0 @@
-/Users/yichensun/Projects/powerline-keybinder/build/CMakeFiles/powerline_keybinder.dir
-/Users/yichensun/Projects/powerline-keybinder/build/CMakeFiles/edit_cache.dir
-/Users/yichensun/Projects/powerline-keybinder/build/CMakeFiles/rebuild_cache.dir
