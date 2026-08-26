@@ -1,0 +1,36 @@
+# CMake build output
+/build/
+/cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+Makefile
+build.ninja
+.ninja_deps
+.ninja_log
+
+# Compiled artifacts
+*.o
+*.obj
+*.a
+*.dylib
+*.so
+*.app
+
+# macOS Finder metadata
+.DS_Store
+
+# Editor and IDE files
+.vscode/
+.idea/
+DerivedData/
+*.xcuserstate
+*.swp
+*.swo
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
